@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 hello world! this is the practical 4 going on
 =======
 hello world!
 file is updated on remote repository
->>>>>>> 1a409cb7a1bcc6f763fe37d81c03c18398eaef93
+
